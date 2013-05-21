@@ -14,6 +14,7 @@ public class MyClass {
 	private int mMonthsInYear;
 
 	public static void main (String[] args){
+		System.out.println("Starting"+ RAG );
 		MyClass myClass = new MyClass (args[0], 400);
 		myClass.printWelcome();
 		myClass.printTotalIncome();
