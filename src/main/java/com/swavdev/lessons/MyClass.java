@@ -3,7 +3,7 @@ package com.swavdev.lessons;
 import java.lang.System;
 
 /**
-* This is our test
+* This is our test. better test
 **/
 public class MyClass {
 
