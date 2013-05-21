@@ -12,6 +12,8 @@ public class MyClass {
 	private int mDaysInMonth;
 
 	private int mMonthsInYear;
+	
+	private static final TAG = "MyClass";
 
 	public static void main (String[] args){
 		MyClass myClass = new MyClass (args[0], 400);
