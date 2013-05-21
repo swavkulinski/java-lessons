@@ -2,6 +2,9 @@ package com.swavdev.lessons;
 
 import java.lang.System;
 
+/**
+* This is our test
+**/
 public class MyClass {
 
 
